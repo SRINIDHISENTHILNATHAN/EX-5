@@ -31,6 +31,10 @@ To write a python program for simulating RARP protocols using UDP.
 # **PROGRAM :**
 
 **Client:**
+
+NAME: SRINIDHI SENTHIL
+
+REGISTER NUMBER:212222230148
 ```
 import socket
 s=socket.socket()
@@ -46,6 +50,11 @@ while True:
         c.send("Not Found".encode()) 
 ```
 **Server:**
+
+NAME: SRINIDHI SENTHIL
+
+REGISTER NUMBER:212222230148
+
 ```
 import socket
 s=socket.socket()
@@ -67,4 +76,5 @@ while True:
 
 
 # **RESULT :**
+
 Thus, python program for simulating RARP protocols using UDP was successfully executed.
